@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesControl", "SeriesControl.csproj", "{5BA06423-9933-4A29-BE84-B88E01D156DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA06423-9933-4A29-BE84-B88E01D156DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA06423-9933-4A29-BE84-B88E01D156DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA06423-9933-4A29-BE84-B88E01D156DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA06423-9933-4A29-BE84-B88E01D156DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB49772A-0FE2-4A1E-93B7-7E01BD1AD570}
+	EndGlobalSection
+EndGlobal
